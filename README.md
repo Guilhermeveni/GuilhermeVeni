@@ -2,12 +2,12 @@
 
 
 - 🔭 Hoje Trabalho com planejamento de produção... 
-- 🌱 estudo programação, e estou me especializando para me tornar um dev junior...
+- 🌱 estudo programação e estou me especializando para me tornar um dev junior...
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Guilhermeveni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermeveni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVeni&layout=compact&langs_count=7&theme=github_dark"/>
+
 </div>
 
 <div style="display: inline_block"><br>
